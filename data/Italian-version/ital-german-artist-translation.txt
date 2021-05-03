@@ -1,0 +1,30 @@
+German,Italian
+Michelangelo Buonarroti,Michelagnolo Buonarruoti
+Filippo Brunelleschi,Filippo Brunelleschi
+Raffael von Urbino,Raffaello d'Urbino
+Leonardo da Vinci,Lionardo da Vinci
+Tizian von Cadore,Tiziano da Cador
+Giotto,Giotto
+Lorenzo Ghiberti,Lorenzo Ghiberti
+Donatello,Donato
+Sebastiano del Piombo,Sebastian Viniziano frate del Piombo
+Bramante von Urbino,Bramante da Urbino
+Niccolo und Giovanni Pisani,Nicola e Giovanni Pisani
+Pietro Perugino,Pietro Perugino
+Sandor Botticelli,Sandro Botticello
+Fra Filippo Lippi,Fra' Filippo Lippi
+Domenico Ghirlandaio,Domenico Ghirlandaio
+Masaccio,Masaccio da San Giovanni di Valdarno
+Andrea Mantegna,Andrea Mantegna
+Luca della Robbia,Luca della Robbia
+Andrea-del-Verocchio,Andrea Verrocchio
+Fra Bartolommeo di San Marco,Fra' Bartolomeo di San Marco
+Jacopo Giovanni und Gentile Bellini,Iacopo Giovanni e Gentile Bellini
+Fra Giovanni da Fiesole (Fra Angelico),Fra' Giovanni da Fiesole dell'Ordine de' Frati Predicatori
+Luca Signorelli,Luca Signorelli da Cortona
+Jacopo della Quercia,Iacopo della Quercia
+Antonello da Messina,Antonello da Messina
+Giovanni Cimabue,Cimabue
+Giorgione von Castelfranco,Giorgione da Castel Franco
+Filippino Lippi,Filippo Lippi
+Antonio da Correggio,Antonio da Correggio
