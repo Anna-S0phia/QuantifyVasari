@@ -1,0 +1,1 @@
+It is common sense that the conclusion of both editions (VITE 1550 & 1568) are written by Vasari himself, that is why I put them in separate files here.
