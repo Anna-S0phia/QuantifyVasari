@@ -18,7 +18,7 @@ Segnatura: 	Signature form the archive providing the letter
 Fonte: 		text of the letter
 Bibliographie: 	further reading, letter mentioned/printed in these books
 
-all_etters.csv is containing all the 1151 letters 
+all_letters.csv is containing all the 1151 letters 
 
 ### letters folder
 contains the .html files
