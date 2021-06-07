@@ -20,3 +20,22 @@ Bibliographie: 	further reading, letter mentioned/printed in these books
 
 all_etters.csv is containing all the 1151 letters 
 
+### letters folder
+contains the .html files
+
+### grouped_letters
+contains .txt and .csv files containing all the letters from one author 
+list of authors: Vasari, VasariC (= copies by his nephew), Bartoli, Borghini, Giambullari, Sangaletti (Sanga), Minerbetti, 'other' (all other authors)
+
+### formatted folder
+contains the data formatted for the methods used
+
+#### formatted_letters folder
+contains the letters in the following: author_letternumber.txt
+
+### formatted_vite folder
+contains all biographies in the following format: unkown_artist-name.txt
++ the books before the biographies as unkown_Introduction.txt
+
+#### formatted_letters_lives_Ghiberti
+contains the formatted letters folder, the formatted vite folder and Ghibertis Commentarii (1447) as a single .txt file
