@@ -1,4 +1,4 @@
-# Get Vasari letters from Fondazione Memofonte with Beautiful Soup (Python)
+## Get Vasari letters from Fondazione Memofonte with Beautiful Soup
 
 The letters are extracted from Fondazione Memofonte at Url https://www.memofonte.it/ricerche/giorgio-vasari/
 
