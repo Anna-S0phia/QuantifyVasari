@@ -1,12 +1,3 @@
----
-title: "README"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Rolling Stylometry
 ### Presentation of the function 
 The Rolling stylometry is a function from the stylo package which has been designed by researchers from the Computational Stylistics Group. The function studies the authorship of a text by comparing the text which the authorship is studies with other texts from potential author candidates. 
