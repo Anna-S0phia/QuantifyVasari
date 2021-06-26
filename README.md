@@ -1,10 +1,10 @@
 # Quantifying Vasari
 
-## Authorship Verification of Lives
+### Authorship Verification of the Lives of the most excellent painters, sculptors and architects
 
-### Repository of EPFL History and the Digital course project (Spring 2021)
+#### Repository of EPFL History and the Digital course project (Spring 2021)
 
-Was Vasari the author of the Lives is the question addressed while using computational methods. 
+Was Vasari the author of the Lives of the most excellent painters, sculptors and architects is the question addressed while using computational methods. (https://en.wikipedia.org/wiki/Lives_of_the_Most_Excellent_Painters,_Sculptors,_and_Architects) 
 
 The second edition of the Lives published in 1568 is a huge investigation work that gathers a great amount of information about the lives of who Vasari considered the best artists at that time. If many of them were Florentin, they were also past artists and the work would have required investigating and comparing several sources of information. Then the nature and the workload of this investigation naturally questions the real process of writing: was Vasari the only one to write it?
 
