@@ -1,4 +1,4 @@
-# Quantifying Vasari
+# Quantifying Vasari Project 2021
 
 ### Authorship Verification of the Lives of the most excellent painters, sculptors and architects
 
